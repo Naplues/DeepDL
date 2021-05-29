@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ace01239-bac5-4bbe-aa0e-d82ad9f47441" name="CXServer" url="http://47.100.90.146">
+        <fileTransfer host="47.100.90.146" port="6666" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="6666" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
